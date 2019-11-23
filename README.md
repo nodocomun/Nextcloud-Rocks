@@ -9,7 +9,8 @@ description: >-
 
 ## ÍNDICE
 
-{% page-ref page="movil-celular/f-droid/" %}
+[F-Droid](movil-celular/f-droid/)
 
-
+* [Notes](movil-celular/f-droid/notes.md)
+* [SimpleTask](movil-celular/f-droid/simpletask.md)
 
