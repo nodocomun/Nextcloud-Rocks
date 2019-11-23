@@ -14,5 +14,13 @@ Tenemos que ir a:
 
 Y desde ahí descargar:
 
-![El enlace directo para descargar es https://f-droid.org/FDroid.apk](../.gitbook/assets/captura-de-pantalla-2019-11-23-23.55.16.png)
+![El enlace directo para descargar es https://f-droid.org/FDroid.apk](../../.gitbook/assets/captura-de-pantalla-2019-11-23-23.55.16.png)
+
+{% hint style="info" %}
+El móvil/celular te dirá que **no puede** instalar servicios de terceros.
+
+### **ACEPTA para que sí pueda.**
+{% endhint %}
+
+Conoce las aplicaciones que podrás instalar desde aquí en la siguiente página.
 

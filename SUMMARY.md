@@ -4,5 +4,7 @@
 
 ## Móvil \| Celular <a id="movil-celular"></a>
 
-* [F-Droid](movil-celular/f-droid.md)
+* [F-Droid](movil-celular/f-droid/README.md)
+  * [Notes](movil-celular/f-droid/notes.md)
+  * [SimpleTask](movil-celular/f-droid/simpletask.md)
 

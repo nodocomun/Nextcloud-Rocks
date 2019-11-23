@@ -7,7 +7,9 @@ description: >-
 
 # Guía de Nextcloud para la subversión
 
-## Guía
+## ÍNDICE
 
-[Móvil \| Celular](movil-celular/f-droid.md)
+{% page-ref page="movil-celular/f-droid/" %}
+
+
 
