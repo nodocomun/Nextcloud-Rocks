@@ -4,7 +4,7 @@
 
 ## Navegador
 
-* [😅 Configuraciones iniciales](navegador/untitled.md)
+* [😅 Configuraciones iniciales](navegador/configuraciones-iniciales.md)
 * [😊 Aplicaciones de inicio](navegador/aplicaciones-de-inicio/README.md)
   * [Archivos](navegador/aplicaciones-de-inicio/archivos.md)
   * [Calendario](navegador/aplicaciones-de-inicio/calendario.md)
