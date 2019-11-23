@@ -25,5 +25,5 @@
 ## Escritorio
 
 * [QOwnNotes](escritorio/qownnotes.md)
-* [Glossary](glossary.md)
+* [Glossary](lexicon.md)
 
