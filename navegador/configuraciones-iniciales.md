@@ -1,4 +1,4 @@
 # 😅 Configuraciones iniciales
 
-Usando una netiqueta es algo que podemos hacer.
+Usando una Netiqueta es algo que podemos hacer.
 
