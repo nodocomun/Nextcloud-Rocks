@@ -14,3 +14,11 @@ description: >-
 * [Notes](movil-celular/f-droid/notes-movil-celular.md)
 * [SimpleTask](movil-celular/f-droid/simpletask.md)
 
+Aplicaciones
+
+
+
+
+
+
+

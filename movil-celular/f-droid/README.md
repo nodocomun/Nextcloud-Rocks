@@ -4,7 +4,7 @@ description: >-
   descargar apps que son únicamente de código abierto. Esto es F-Droid.
 ---
 
-# F-Droid
+# 📱 F-Droid
 
 Algo que nos resulta extraño de inicio es que, normalmente, lo que hacemos es instalar apps en nuestro móvil/celular. En este caso vamos a descargar una app que nos permitirá descargar otras, y no se encuentra en PlayStore.
 
