@@ -5,9 +5,9 @@ description: >-
   Nextcloud. Pasa, trastea y comparte tus trucos.
 ---
 
-# Guía de Nextcloud para iniciados
+# Guía de Nextcloud para la subversión
 
 ## Guía
 
-Móvil \| Celular
+[Móvil \| Celular](movil-celular/f-droid.md)
 

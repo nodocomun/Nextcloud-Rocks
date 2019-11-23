@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Guía de Nextcloud para iniciados](README.md)
+* [Guía de Nextcloud para la subversión](README.md)
 
 ## Móvil \| Celular <a id="movil-celular"></a>
 
