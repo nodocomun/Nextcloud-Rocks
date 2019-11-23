@@ -10,7 +10,7 @@ Algo que nos resulta extraño de inicio es que, normalmente, lo que hacemos es i
 
 Tenemos que ir a:
 
-{% embed url="https://f-droid.org/" %}
+{% embed url="https://f-droid.org/" caption="" %}
 
 Y desde ahí descargar:
 
@@ -19,7 +19,8 @@ Y desde ahí descargar:
 {% hint style="info" %}
 El móvil/celular te dirá que **no puede** instalar servicios de terceros.
 
-### **ACEPTA para que sí pueda.**
+## **ACEPTA para que sí pueda.**
 {% endhint %}
 
 Conoce las aplicaciones que podrás instalar desde aquí en la siguiente página.
+
