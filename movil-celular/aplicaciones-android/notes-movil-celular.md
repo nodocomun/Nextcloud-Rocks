@@ -1,0 +1,2 @@
+# Notes en móvil / celular
+

@@ -17,12 +17,16 @@
 
 ## Móvil \| Celular <a id="movil-celular"></a>
 
-* [📱 F-Droid](movil-celular/f-droid/README.md)
-  * [Notes en móvil / celular](movil-celular/f-droid/notes-movil-celular.md)
-  * [SimpleTask](movil-celular/f-droid/simpletask.md)
-  * [Etar](movil-celular/f-droid/etar.md)
+* [📱 F-Droid](movil-celular/f-droid.md)
+* [😎 Aplicaciones Android](movil-celular/aplicaciones-android/README.md)
+  * [Nextcloud](movil-celular/aplicaciones-android/nextcloud.md)
+  * [Etar \(Calendario\)](movil-celular/aplicaciones-android/etar.md)
+  * [Notes en móvil / celular](movil-celular/aplicaciones-android/notes-movil-celular.md)
+  * [SimpleTask](movil-celular/aplicaciones-android/simpletask.md)
 
 ## Escritorio
 
-* [QOwnNotes](escritorio/qownnotes.md)
+* [🤖 Nextcloud para escritorio](escritorio/nextcloud-para-escritorio.md)
+* [ Mac OS](escritorio/mac-os/README.md)
+  * [QOwnNotes](escritorio/mac-os/qownnotes.md)
 

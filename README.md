@@ -9,18 +9,38 @@ description: >-
 
 ## ÍNDICE
 
+### NAVEGADOR
+
 [Configuraciones iniciales](navegador/configuraciones-iniciales.md)
 
 [Aplicaciones de inicio](navegador/aplicaciones-de-inicio/)
 
+* [Archivos](navegador/aplicaciones-de-inicio/archivos.md)
+* [Calendario](navegador/aplicaciones-de-inicio/calendario.md)
+* [Contactos](navegador/aplicaciones-de-inicio/contactos.md)
+* [Notes en navegador](navegador/aplicaciones-de-inicio/notes-en-navegador.md)
+
 [Aplicaciones de avanzadilla](navegador/aplicaciones-de-avanzadilla/)
 
-[F-Droid](movil-celular/f-droid/)
+* [Deck](navegador/aplicaciones-de-avanzadilla/deck.md)
+* [Social](navegador/aplicaciones-de-avanzadilla/social.md)
+* [Círculos](navegador/aplicaciones-de-avanzadilla/circulos.md)
 
-* [Notes](movil-celular/f-droid/notes-movil-celular.md)
-* [SimpleTask](movil-celular/f-droid/simpletask.md)
+### MÓVIL / CELULAR
 
-Aplicaciones
+[F-Droid](movil-celular/f-droid.md)
+
+[Aplicaciones Android](movil-celular/aplicaciones-android/)
+
+* [Nextcloud](movil-celular/aplicaciones-android/nextcloud.md)
+* [Etar \(Calendario\)](movil-celular/aplicaciones-android/etar.md)
+* [Notes en móvil / celular](movil-celular/aplicaciones-android/notes-movil-celular.md)
+* [SimpleTask](movil-celular/aplicaciones-android/simpletask.md)
+
+### ESCRITORIO
+
+* [Nextcloud para escritorio](escritorio/nextcloud-para-escritorio.md)
+* [QOwnNotes](escritorio/mac-os/qownnotes.md)
 
 
 
