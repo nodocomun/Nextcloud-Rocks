@@ -18,7 +18,7 @@
 ## Móvil \| Celular <a id="movil-celular"></a>
 
 * [📱 F-Droid](movil-celular/f-droid.md)
-* [😎 Aplicaciones Android](movil-celular/aplicaciones-android/README.md)
+* [🔋 Aplicaciones Android](movil-celular/aplicaciones-android/README.md)
   * [Nextcloud](movil-celular/aplicaciones-android/nextcloud.md)
   * [Etar \(Calendario\)](movil-celular/aplicaciones-android/etar.md)
   * [Notes en móvil / celular](movil-celular/aplicaciones-android/notes-movil-celular.md)
