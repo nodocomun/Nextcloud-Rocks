@@ -14,6 +14,8 @@ _F-Droid es un catálogo instalable de aplicaciones de software libre \(FOSS, «
 
 Algo que nos resulta extraño de inicio es que, normalmente, lo que hacemos es instalar apps en nuestro móvil/celular. En este caso vamos a descargar una app que nos permitirá descargar otras, y no se encuentra en PlayStore.
 
+La gracias que tiene el código abierto es que es auditable por terceros, es decir, que las apps que se suben aquí están abiertas para su estudio. Por ello cuando instalemos alguna app nos dirá si está tomando de nuestro dispositivo datos que no nos interesa darle por alguna razón, o que hace uso de determinados códigos para su utilización comercial. Es de agradecer un poco de transparencia en estos tiempos tan oscuros para la privacidad digital.
+
 ## Cómo instalarlo
 
 1. Ve a la página [https://f-droid.org/](https://f-droid.org/)
