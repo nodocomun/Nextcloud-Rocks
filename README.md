@@ -7,13 +7,7 @@ description: >-
 
 # Guía de Nextcloud para la subversión
 
-{% hint style="success" %}
-## **Mensaje para navegantes**
-
-Esta guía no tiene como propósito ser algo acabado ni único. Hay muchas más ahí fuera, todas geniales. Desde aquí compartimos nuestra experiencia con lo que vamos aprendiendo. Si tienes más ideas, compartelas en los comentarios, y si tienes sugerencias de edición para mejorarla, también.
-
-### Gracias
-{% endhint %}
+![](.gitbook/assets/nextcoud.png)
 
 ## ÍNDICE
 
@@ -51,6 +45,14 @@ Esta guía no tiene como propósito ser algo acabado ni único. Hay muchas más 
 * [QOwnNotes](escritorio/mac-os/qownnotes.md)
 
 
+
+{% hint style="success" %}
+## **Mensaje para navegantes**
+
+Esta guía no tiene como propósito ser algo acabado ni único. Hay muchas más ahí fuera, todas geniales. Desde aquí compartimos nuestra experiencia con lo que vamos aprendiendo. Si tienes más ideas, compartelas en los comentarios, y si tienes sugerencias de edición para mejorarla, también.
+
+### Gracias
+{% endhint %}
 
 
 
