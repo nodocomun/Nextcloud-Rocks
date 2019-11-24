@@ -10,18 +10,25 @@ description: >-
 
 Algo que nos resulta extraño de inicio es que, normalmente, lo que hacemos es instalar apps en nuestro móvil/celular. En este caso vamos a descargar una app que nos permitirá descargar otras, y no se encuentra en PlayStore.
 
-Tenemos que ir a:
+## Cómo instalarlo
 
-{% embed url="https://f-droid.org/" caption="" %}
+* [ ] Ve a la página [https://f-droid.org/](https://f-droid.org/)
+* [ ] Pulsa el botón **DESCARGAR F-DROID** como en la imagen más abajo
 
-Y desde ahí descargar:
+![](../.gitbook/assets/captura-de-pantalla-2019-11-23-23.55.16.png)
 
-![El enlace directo para descargar es https://f-droid.org/FDroid.apk](../.gitbook/assets/captura-de-pantalla-2019-11-23-23.55.16.png)
+{% hint style="success" %}
+#### El enlace directo para descargar es [https://f-droid.org/FDroid.apk](https://f-droid.org/FDroid.apk)
+{% endhint %}
+
+
+
+
 
 {% hint style="info" %}
 El móvil/celular te dirá que **no puede** instalar servicios de terceros.
 
-## **ACEPTA para que sí pueda.**
+### **ACEPTA para que sí pueda.**
 {% endhint %}
 
 Conoce las aplicaciones que podrás instalar desde aquí en la siguiente página.
