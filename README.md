@@ -9,6 +9,12 @@ description: >-
 
 ## ÍNDICE
 
+[Configuraciones iniciales](navegador/configuraciones-iniciales.md)
+
+[Aplicaciones de inicio](navegador/aplicaciones-de-inicio/)
+
+[Aplicaciones de avanzadilla](navegador/aplicaciones-de-avanzadilla/)
+
 [F-Droid](movil-celular/f-droid/)
 
 * [Notes](movil-celular/f-droid/notes-movil-celular.md)
