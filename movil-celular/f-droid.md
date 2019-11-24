@@ -12,8 +12,8 @@ Algo que nos resulta extraño de inicio es que, normalmente, lo que hacemos es i
 
 ## Cómo instalarlo
 
-* [ ] Ve a la página [https://f-droid.org/](https://f-droid.org/)
-* [ ] Pulsa el botón **DESCARGAR F-DROID** como en la imagen más abajo
+* Ve a la página [https://f-droid.org/](https://f-droid.org/)
+* Pulsa el botón **DESCARGAR F-DROID** como en la imagen más abajo
 
 ![](../.gitbook/assets/captura-de-pantalla-2019-11-23-23.55.16.png)
 
@@ -21,14 +21,14 @@ Algo que nos resulta extraño de inicio es que, normalmente, lo que hacemos es i
 #### El enlace directo para descargar es [https://f-droid.org/FDroid.apk](https://f-droid.org/FDroid.apk)
 {% endhint %}
 
+* Una vez instalado actualiza los repositorios y ya podrás empezar a instalar apps desde aquí.
 
 
 
-
-{% hint style="info" %}
+{% hint style="warning" %}
 El móvil/celular te dirá que **no puede** instalar servicios de terceros.
 
-### **ACEPTA para que sí pueda.**
+### **ACEPTA para poder continuar.**
 {% endhint %}
 
 Conoce las aplicaciones que podrás instalar desde aquí en la siguiente página.
